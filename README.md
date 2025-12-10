@@ -11,6 +11,8 @@ Computer Science student at Rathinam College of Arts and Science
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> </br>
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/5188c04b-ae4b-4a1c-9d7a-343ed66660ab" /> </br>
+ 
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" /> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" /> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png" /> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png" />
