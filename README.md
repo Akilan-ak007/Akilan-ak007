@@ -9,9 +9,9 @@ Computer Science student at Rathinam College of Arts and Science
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/akilan-k-903b01319) <br/> 
 
 ### I code in
-<img height="60" width="60" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b1489a2a-1306-4c86-999c-bda0df014aa9" /> </br>
+<img height="65" width="65" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="65" width="65" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="65" width="65" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="65" width="65" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="65" width="65" src="https://img.icons8.com/color/48/000000/css3.png" /> 
+<img height="65" width="65" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
+<img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/b1489a2a-1306-4c86-999c-bda0df014aa9" /> </br>
  
 
 ### IDE and Tools I Use
