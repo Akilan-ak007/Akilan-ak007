@@ -8,7 +8,7 @@ Computer Science student at Rathinam College of Arts and Science
 - 💻 Building strong foundations in Java and backend development .
 
 - 🌐 Exploring front-end and modern web technologies .
-
+  
 - 🧠 Focused on problem-solving and clean code . 
 
 - 🚀 Aiming to build scalable, real-world applications .
