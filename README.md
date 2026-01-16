@@ -6,8 +6,8 @@ Computer Science student at Rathinam College of Arts and Science
 - 🌱 Aspiring Full-Stack Java Developer learning Data Structures and Algorithms .
 
 - 💻 Building strong foundations in Java and backend development .
-- 
-- 🌐 Exploring front-end and modern web technologies ..
+
+- 🌐 Exploring front-end and modern web technologies .
   
 - 🧠 Focused on problem-solving and clean code .
 
