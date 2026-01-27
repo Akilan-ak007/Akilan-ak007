@@ -17,6 +17,7 @@ Computer Science student at Rathinam College of Arts and Science
 ### I code in
 <img height="60" width="60" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="60" width="60" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="60" width="60" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="60" width="60" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="60" width="60" src="https://img.icons8.com/color/48/000000/css3.png" /> 
 <img height="60" width="60" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9a14a5d4-0996-4115-ac94-ddbf4b9eb872" />
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/b1489a2a-1306-4c86-999c-bda0df014aa9" /> </br>
  
 
