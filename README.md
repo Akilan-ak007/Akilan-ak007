@@ -20,7 +20,7 @@ Computer Science student at Rathinam College of Arts and Science
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/9a14a5d4-0996-4115-ac94-ddbf4b9eb872" /></br>
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/b1489a2a-1306-4c86-999c-bda0df014aa9" /> 
 <img width="90" height="90" src="https://img.icons8.com/color/144/nodejs.png" alt="nodejs"/>
-  <img width="60" height="60" src="https://img.icons8.com/officexs/16/express-js.png" alt="express-js"/>
+  <img width="70" height="70" src="https://img.icons8.com/officel/80/express-js.png" alt="express-js"/>
 
 ### IDE and Tools I Use
 <img height="60" width="60" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" /> <img height="60" width="60" src="https://img.icons8.com/color/50/000000/git.png" /> <img height="60" src="https://img.icons8.com/officel/480/null/java-eclipse.png" /> <img height="60" width="60" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png" />
