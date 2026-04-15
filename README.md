@@ -19,7 +19,7 @@ Computer Science student at Rathinam College of Arts and Science
 <img height="60" width="60" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/9a14a5d4-0996-4115-ac94-ddbf4b9eb872" /></br>
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/b1489a2a-1306-4c86-999c-bda0df014aa9" /> 
-<img width="60" height="60" src="https://img.icons8.com/color/144/nodejs.png" alt="nodejs"/>
+<img width="90" height="90" src="https://img.icons8.com/color/144/nodejs.png" alt="nodejs"/>
  
 
 ### IDE and Tools I Use
