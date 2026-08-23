@@ -1,7 +1,7 @@
 
 ## Hi there 👋 It's me Akilan
 
-Computer Science student at Rathinam College of Arts and Science
+Computer Science student at Rathinam Global Deemed to be University
 <img align="right" width="370" height="290" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyaHZzYmpzbW9vZXMyYjVyZ3dsNmNidHM0Y3VzN3BkZWlqeW83YTZ1OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/source.gif">
 - 🌱 Aspiring Full-Stack Java Developer learning Data Structures and Algorithms .
 
