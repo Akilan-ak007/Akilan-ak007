@@ -11,7 +11,7 @@ Computer Science student at Rathinam Global Deemed to be University
   
 - 🧠 Focused on problem-solving and clean code .
 
-- 🚀 Aiming to build scalable, real-world applications .
+- 🚀 Aiming to build scalable, real-world applications.
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/akilan-k-903b01319) <br/> 
 
 ### I code in
