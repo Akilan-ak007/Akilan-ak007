@@ -31,8 +31,7 @@ Computer Science student at Rathinam Global Deemed to be University
  <img width="60" height="60" src="https://img.icons8.com/color/48/tomcat.png" alt="tomcat"/></br>
  <img height="60" src="https://img.icons8.com/color/480/null/notion--v1.png" /> 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Akilan-ak007?theme=dark&font=Oxygen&ext=heatmap)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/Akilankdev?theme=dark&font=Harmattan&ext=heatmap)
 
 <h2>📫 How to reach me:</h2>
 <div align="center">
